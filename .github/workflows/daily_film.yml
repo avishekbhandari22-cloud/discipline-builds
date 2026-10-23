@@ -56,3 +56,10 @@ jobs:
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
         run: python upload_youtube.py film.mp4 ${{ steps.pick.outputs.spec }}
+      - name: Post to Facebook Page
+        if: steps.gate.outputs.go == '1' && steps.pick.outputs.spec != '' && (github.event_name == 'schedule' || github.event.inputs.upload == 'true')
+        continue-on-error: true
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+        run: python post_facebook.py film.mp4 ${{ steps.pick.outputs.spec }}
