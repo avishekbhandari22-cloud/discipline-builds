@@ -1,0 +1,53 @@
+{
+ "title": "Your Excuses Are Expensive | A Discipline Short Film",
+ "end_title": "DAY FIFTEEN.",
+ "stand_line": 0,
+ "gold": [
+  "excuses",
+  "expensive",
+  "reasons",
+  "fifteen."
+ ],
+ "lines": [
+  [
+   "I'm tired. I'm busy. I'll start Monday.",
+   "room",
+   0.9
+  ],
+  [
+   "Every excuse sounds reasonable. That's why it works so well.",
+   "room",
+   0.9
+  ],
+  [
+   "But look at what each one costs you.",
+   "desk",
+   0.8
+  ],
+  [
+   "A year of Mondays is still a year.",
+   "desk",
+   0.9
+  ],
+  [
+   "He deletes the excuses one by one, and replaces them with a plan.",
+   "street",
+   0.9
+  ],
+  [
+   "You don't need better reasons. You need fewer excuses.",
+   "rain",
+   0.9
+  ],
+  [
+   "Start before you're ready. Ready never comes.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day fifteen. Stop negotiating.",
+   "summit",
+   0.5
+  ]
+ ]
+}

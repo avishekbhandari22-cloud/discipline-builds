@@ -1,0 +1,54 @@
+{
+ "title": "The Quiet Work Wins | A Discipline Short Film",
+ "end_title": "DAY SEVENTEEN.",
+ "clock": "4:45",
+ "stand_line": 1,
+ "gold": [
+  "quiet",
+  "silence",
+  "loud",
+  "seventeen."
+ ],
+ "lines": [
+  [
+   "4:45 a.m. The city is asleep.",
+   "room",
+   0.9
+  ],
+  [
+   "He's already working.",
+   "desk",
+   0.8
+  ],
+  [
+   "The loud ones talk about what they'll do.",
+   "desk",
+   0.9
+  ],
+  [
+   "The quiet ones are doing it.",
+   "desk",
+   0.9
+  ],
+  [
+   "Work in silence. Let the results make the noise.",
+   "street",
+   0.9
+  ],
+  [
+   "You don't owe anyone a preview of your progress.",
+   "rain",
+   0.9
+  ],
+  [
+   "Outwork the doubt, and let the silence do its job.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day seventeen. Stay quiet. Stay hungry.",
+   "summit",
+   0.5
+  ]
+ ]
+}

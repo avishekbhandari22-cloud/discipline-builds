@@ -1,0 +1,53 @@
+{
+ "title": "Your Future Self Is Watching | A Discipline Short Film",
+ "end_title": "DAY NINETEEN.",
+ "stand_line": 1,
+ "gold": [
+  "future",
+  "watching",
+  "thank",
+  "nineteen."
+ ],
+ "lines": [
+  [
+   "Somewhere ahead of him, his future self is watching.",
+   "street",
+   0.9
+  ],
+  [
+   "Every choice today, he'll either thank or regret.",
+   "street",
+   0.9
+  ],
+  [
+   "He's building the life that person will inherit.",
+   "desk",
+   0.9
+  ],
+  [
+   "Study now. Train now. Save now. Sacrifice now.",
+   "desk",
+   0.9
+  ],
+  [
+   "Your future self isn't asking for much. Just don't quit on them.",
+   "rain",
+   0.9
+  ],
+  [
+   "Do one thing today that they'd thank you for.",
+   "hill",
+   0.8
+  ],
+  [
+   "They're counting on you.",
+   "hill",
+   0.8
+  ],
+  [
+   "Day nineteen. Make them proud.",
+   "summit",
+   0.5
+  ]
+ ]
+}

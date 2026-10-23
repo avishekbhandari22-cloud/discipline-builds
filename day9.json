@@ -1,0 +1,53 @@
+{
+ "title": "The Version Of You That Quit | A Discipline Short Film",
+ "end_title": "DAY NINE.",
+ "stand_line": 0,
+ "gold": [
+  "quit",
+  "version",
+  "nine.",
+  "stay."
+ ],
+ "lines": [
+  [
+   "Somewhere there's a version of him that quit.",
+   "street",
+   0.9
+  ],
+  [
+   "He's comfortable. He's average. He's still telling the same stories.",
+   "street",
+   0.9
+  ],
+  [
+   "Every morning, he gets to choose which version wakes up.",
+   "room",
+   0.9
+  ],
+  [
+   "The one who stays in bed, or the one who stays in the fight.",
+   "room",
+   0.9
+  ],
+  [
+   "Comfort feels like a reward. It's really a slow loss.",
+   "rain",
+   0.9
+  ],
+  [
+   "One more rep. One more page. One more hour.",
+   "rain",
+   0.9
+  ],
+  [
+   "That's how the other version disappears.",
+   "hill",
+   0.8
+  ],
+  [
+   "Day nine. Choose the one who stays.",
+   "summit",
+   0.5
+  ]
+ ]
+}

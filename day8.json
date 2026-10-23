@@ -1,0 +1,54 @@
+{
+ "title": "Nobody Is Coming To Save You | A Discipline Short Film",
+ "end_title": "DAY EIGHT.",
+ "stand_line": 1,
+ "gold": [
+  "nobody",
+  "save",
+  "you.",
+  "yourself",
+  "eight."
+ ],
+ "lines": [
+  [
+   "He waited for a sign. For a call. For someone to say it was time.",
+   "room",
+   0.9
+  ],
+  [
+   "Nobody called.",
+   "room",
+   0.8
+  ],
+  [
+   "Nobody is coming to save you. That's not cruel. That's freedom.",
+   "desk",
+   0.9
+  ],
+  [
+   "Because if no one is coming, then everything is up to you.",
+   "desk",
+   0.9
+  ],
+  [
+   "He opens the laptop. He starts the work no one asked him to do.",
+   "desk",
+   0.9
+  ],
+  [
+   "The rescue you're waiting for is the person you become.",
+   "street",
+   0.9
+  ],
+  [
+   "So stop waiting. Start building.",
+   "hill",
+   0.8
+  ],
+  [
+   "Day eight. Save yourself.",
+   "summit",
+   0.5
+  ]
+ ]
+}

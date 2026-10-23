@@ -1,0 +1,53 @@
+{
+ "title": "The Cost Of Staying Comfortable | A Discipline Short Film",
+ "end_title": "DAY TWELVE.",
+ "stand_line": 0,
+ "gold": [
+  "comfortable",
+  "cost",
+  "regret",
+  "twelve."
+ ],
+ "lines": [
+  [
+   "Comfort is expensive. It just sends the bill later.",
+   "desk",
+   0.9
+  ],
+  [
+   "You pay for it with the life you didn't build.",
+   "desk",
+   0.9
+  ],
+  [
+   "He's tired of paying.",
+   "desk",
+   0.8
+  ],
+  [
+   "So he chooses the hard thing, on purpose, every single day.",
+   "street",
+   0.9
+  ],
+  [
+   "Discipline costs you now. Regret costs you forever.",
+   "street",
+   0.9
+  ],
+  [
+   "Pick your pain. One of them has a reward.",
+   "rain",
+   0.9
+  ],
+  [
+   "Walk toward the discomfort. That's where the growth lives.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day twelve. Pay it now.",
+   "summit",
+   0.5
+  ]
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "title": "Two Weeks In: Nobody Claps Yet | A Discipline Short Film",
+ "end_title": "DAY FOURTEEN.",
+ "clock": "5:30",
+ "stand_line": 1,
+ "gold": [
+  "claps",
+  "fourteen",
+  "consistency",
+  "proof."
+ ],
+ "lines": [
+  [
+   "Two weeks in. Nobody has clapped yet.",
+   "room",
+   0.9
+  ],
+  [
+   "No views. No praise. No proof that it's working.",
+   "room",
+   0.9
+  ],
+  [
+   "This is the part where most people stop.",
+   "desk",
+   0.9
+  ],
+  [
+   "But consistency doesn't announce itself. It just compounds.",
+   "desk",
+   0.9
+  ],
+  [
+   "He keeps going, without proof.",
+   "street",
+   0.8
+  ],
+  [
+   "Because belief comes before the evidence, not after.",
+   "street",
+   0.9
+  ],
+  [
+   "The applause always arrives late. Be there when it does.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day fourteen. Keep showing up.",
+   "summit",
+   0.5
+  ]
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "title": "You Don't Need Motivation | A Discipline Short Film",
+ "end_title": "DAY ELEVEN.",
+ "clock": "6:00",
+ "stand_line": 1,
+ "gold": [
+  "motivation",
+  "feel",
+  "systems",
+  "eleven."
+ ],
+ "lines": [
+  [
+   "6:00 a.m. He doesn't feel like it.",
+   "room",
+   0.9
+  ],
+  [
+   "He never feels like it. That's not the point.",
+   "room",
+   0.9
+  ],
+  [
+   "Motivation is a mood. Moods change by lunchtime.",
+   "room",
+   0.9
+  ],
+  [
+   "Discipline is a decision you make before the mood arrives.",
+   "street",
+   0.9
+  ],
+  [
+   "He doesn't wait to feel ready. He moves, and the feeling follows.",
+   "street",
+   0.9
+  ],
+  [
+   "Build systems, not sparks.",
+   "hill",
+   0.8
+  ],
+  [
+   "Because the fire will go out. The routine won't.",
+   "hill",
+   1.0
+  ],
+  [
+   "Day eleven. Do it anyway.",
+   "summit",
+   0.5
+  ]
+ ]
+}

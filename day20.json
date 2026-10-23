@@ -1,0 +1,53 @@
+{
+ "title": "Discipline Over Talent | A Discipline Short Film",
+ "end_title": "DAY TWENTY.",
+ "stand_line": 0,
+ "gold": [
+  "talent",
+  "discipline",
+  "outwork",
+  "twenty."
+ ],
+ "lines": [
+  [
+   "He wasn't the most talented in the room.",
+   "desk",
+   0.9
+  ],
+  [
+   "He was the one who stayed longest.",
+   "desk",
+   0.9
+  ],
+  [
+   "Talent starts the race. Discipline finishes it.",
+   "street",
+   0.9
+  ],
+  [
+   "The gifted get bored. The disciplined get better.",
+   "street",
+   0.9
+  ],
+  [
+   "You can't control your talent. You can control your effort.",
+   "rain",
+   0.9
+  ],
+  [
+   "So outwork everyone, including your own doubt.",
+   "hill",
+   0.9
+  ],
+  [
+   "Twenty days in, and he's already someone new.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day twenty. Outwork everything.",
+   "summit",
+   0.5
+  ]
+ ]
+}

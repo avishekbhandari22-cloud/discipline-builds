@@ -1,0 +1,53 @@
+{
+ "title": "Small Steps Still Move You Forward | A Discipline Short Film",
+ "end_title": "DAY THIRTEEN.",
+ "stand_line": 1,
+ "gold": [
+  "small",
+  "steps",
+  "forward",
+  "thirteen."
+ ],
+ "lines": [
+  [
+   "The mountain looks impossible from here.",
+   "hill",
+   0.9
+  ],
+  [
+   "So he stops looking at the mountain.",
+   "hill",
+   0.8
+  ],
+  [
+   "He looks at the next step. Just one.",
+   "hill",
+   0.9
+  ],
+  [
+   "Small steps don't look like progress. Until you turn around.",
+   "street",
+   0.9
+  ],
+  [
+   "One percent better. Every single day.",
+   "street",
+   0.9
+  ],
+  [
+   "The distance doesn't care how slowly you walk. It only cares that you don't stop.",
+   "rain",
+   1.0
+  ],
+  [
+   "Keep stacking the days. The summit is just a pile of small steps.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day thirteen. Take the next step.",
+   "summit",
+   0.5
+  ]
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "title": "Three Weeks. You Are Not The Same | A Discipline Short Film",
+ "end_title": "DAY TWENTY-ONE.",
+ "clock": "5:00",
+ "stand_line": 1,
+ "gold": [
+  "weeks.",
+  "changed",
+  "identity",
+  "twenty-one."
+ ],
+ "lines": [
+  [
+   "Three weeks ago, he almost didn't start.",
+   "room",
+   0.9
+  ],
+  [
+   "Today, he looks in the mirror and sees someone who shows up.",
+   "room",
+   0.9
+  ],
+  [
+   "That's not a small change. That's a new identity.",
+   "desk",
+   0.9
+  ],
+  [
+   "You don't rise to your goals. You become the person who reaches them.",
+   "desk",
+   0.9
+  ],
+  [
+   "Every day was a vote for who he's becoming.",
+   "street",
+   0.9
+  ],
+  [
+   "The old him wouldn't recognize this version.",
+   "rain",
+   0.9
+  ],
+  [
+   "This is only the beginning. Keep voting.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day twenty-one. You have changed.",
+   "summit",
+   0.5
+  ]
+ ]
+}

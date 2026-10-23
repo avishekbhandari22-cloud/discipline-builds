@@ -1,0 +1,53 @@
+{
+ "title": "Hard Days Build Strong People | A Discipline Short Film",
+ "end_title": "DAY EIGHTEEN.",
+ "stand_line": 0,
+ "gold": [
+  "hard",
+  "strong",
+  "pressure",
+  "eighteen."
+ ],
+ "lines": [
+  [
+   "Today was hard. He almost didn't finish.",
+   "rain",
+   0.9
+  ],
+  [
+   "The weight is heavy. The legs are shaking.",
+   "rain",
+   0.9
+  ],
+  [
+   "But strong people aren't built on easy days.",
+   "street",
+   0.9
+  ],
+  [
+   "Pressure is what turns carbon into diamond.",
+   "street",
+   0.9
+  ],
+  [
+   "If it were easy, everyone would do it. That's why it's valuable.",
+   "street",
+   0.9
+  ],
+  [
+   "Thank the hard days. They're doing the work on you.",
+   "hill",
+   0.9
+  ],
+  [
+   "You are not breaking. You are being built.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day eighteen. Get stronger.",
+   "summit",
+   0.5
+  ]
+ ]
+}
