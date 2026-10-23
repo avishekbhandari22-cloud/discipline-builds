@@ -1,0 +1,53 @@
+{
+ "title": "Consistency Over Perfection | A Discipline Short Film",
+ "end_title": "DAY FIFTY-NINE.",
+ "stand_line": 2,
+ "gold": [
+  "consistency",
+  "perfection",
+  "done",
+  "fifty-nine."
+ ],
+ "lines": [
+  [
+   "He tried to make every day perfect.",
+   "room",
+   0.9
+  ],
+  [
+   "He burned out by Thursday.",
+   "desk",
+   0.9
+  ],
+  [
+   "Then he tried something different.",
+   "desk",
+   0.9
+  ],
+  [
+   "Good enough, done daily.",
+   "street",
+   0.9
+  ],
+  [
+   "Done beats perfect. Daily beats occasional.",
+   "rain",
+   0.9
+  ],
+  [
+   "A decent day, repeated, builds a legend.",
+   "rain",
+   0.9
+  ],
+  [
+   "Lower the bar. Raise the frequency.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day fifty-nine. Do it daily.",
+   "summit",
+   0.5
+  ]
+ ]
+}

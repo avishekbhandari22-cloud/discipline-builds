@@ -1,0 +1,53 @@
+{
+ "title": "When Motivation Dies | A Discipline Short Film",
+ "end_title": "DAY FIFTY-TWO.",
+ "stand_line": 1,
+ "gold": [
+  "motivation",
+  "dies",
+  "routine",
+  "fifty-two."
+ ],
+ "lines": [
+  [
+   "Day twenty. The excitement is gone.",
+   "room",
+   0.9
+  ],
+  [
+   "This is the real test, and he knew it.",
+   "room",
+   0.9
+  ],
+  [
+   "Motivation always dies. That's normal.",
+   "desk",
+   0.9
+  ],
+  [
+   "What carries you now is the routine.",
+   "desk",
+   0.9
+  ],
+  [
+   "The checklist. The alarm. The habit.",
+   "street",
+   0.9
+  ],
+  [
+   "Amateurs wait for inspiration.",
+   "rain",
+   0.9
+  ],
+  [
+   "Professionals show up when it's gone.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day fifty-two. Show up anyway.",
+   "summit",
+   0.5
+  ]
+ ]
+}

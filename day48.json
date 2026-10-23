@@ -1,0 +1,54 @@
+{
+ "title": "The Fear Behind The Door | A Discipline Short Film",
+ "end_title": "DAY FORTY-EIGHT.",
+ "clock": "5:00",
+ "stand_line": 0,
+ "gold": [
+  "fear",
+  "door",
+  "courage",
+  "forty-eight."
+ ],
+ "lines": [
+  [
+   "Behind every door he feared, there was growth.",
+   "room",
+   0.9
+  ],
+  [
+   "The conversation. The audition. The launch.",
+   "room",
+   0.9
+  ],
+  [
+   "Fear isn't a stop sign. It's a compass.",
+   "desk",
+   0.9
+  ],
+  [
+   "It points toward what matters most.",
+   "desk",
+   0.9
+  ],
+  [
+   "Courage isn't the absence of fear.",
+   "street",
+   0.9
+  ],
+  [
+   "It's walking through the door with trembling hands.",
+   "rain",
+   0.9
+  ],
+  [
+   "Open it.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day forty-eight. Open the door.",
+   "summit",
+   0.5
+  ]
+ ]
+}

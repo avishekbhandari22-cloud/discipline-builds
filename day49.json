@@ -1,0 +1,53 @@
+{
+ "title": "Your Habits Are Your Future | A Discipline Short Film",
+ "end_title": "DAY FORTY-NINE.",
+ "stand_line": 1,
+ "gold": [
+  "habits",
+  "future",
+  "small",
+  "forty-nine."
+ ],
+ "lines": [
+  [
+   "Tell me your habits, and I'll tell you your future.",
+   "street",
+   0.9
+  ],
+  [
+   "Small things, repeated, quietly decide everything.",
+   "street",
+   0.9
+  ],
+  [
+   "Not the big speech. Not the big promise.",
+   "desk",
+   0.9
+  ],
+  [
+   "The cup of water. The hour of study. The early bed.",
+   "desk",
+   0.9
+  ],
+  [
+   "You are what you repeatedly do.",
+   "rain",
+   0.9
+  ],
+  [
+   "So design your days with care.",
+   "rain",
+   0.9
+  ],
+  [
+   "Your future is being built right now.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day forty-nine. Build your habits.",
+   "summit",
+   0.5
+  ]
+ ]
+}

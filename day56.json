@@ -1,0 +1,53 @@
+{
+ "title": "The Midnight Oil | A Discipline Short Film",
+ "end_title": "DAY FIFTY-SIX.",
+ "stand_line": 2,
+ "gold": [
+  "midnight",
+  "oil",
+  "work",
+  "fifty-six."
+ ],
+ "lines": [
+  [
+   "12:30 a.m. The lights are low.",
+   "room",
+   0.9
+  ],
+  [
+   "The city sleeps. His dream doesn't.",
+   "room",
+   0.9
+  ],
+  [
+   "He's not working because he has to.",
+   "desk",
+   0.9
+  ],
+  [
+   "He's working because he can't stand the thought of quitting.",
+   "desk",
+   0.9
+  ],
+  [
+   "Late nights don't look glamorous.",
+   "street",
+   0.9
+  ],
+  [
+   "They look like a desk and a deadline.",
+   "rain",
+   0.9
+  ],
+  [
+   "But this is where the future gets written.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day fifty-six. Burn the oil.",
+   "summit",
+   0.5
+  ]
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "title": "Don't Wait For Permission | A Discipline Short Film",
+ "end_title": "DAY FIFTY-EIGHT.",
+ "stand_line": 1,
+ "gold": [
+  "permission",
+  "wait",
+  "go",
+  "fifty-eight."
+ ],
+ "lines": [
+  [
+   "He kept waiting for a yes.",
+   "desk",
+   0.9
+  ],
+  [
+   "A sign. A green light. A nod.",
+   "desk",
+   0.9
+  ],
+  [
+   "But nobody hands out permission slips for a dream.",
+   "street",
+   0.9
+  ],
+  [
+   "The world rewards people who move first.",
+   "street",
+   0.9
+  ],
+  [
+   "Apologize later. Start today.",
+   "rain",
+   0.9
+  ],
+  [
+   "Nobody is watching to approve you.",
+   "hill",
+   0.9
+  ],
+  [
+   "So approve yourself, and begin.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day fifty-eight. Give yourself permission.",
+   "summit",
+   0.5
+  ]
+ ]
+}

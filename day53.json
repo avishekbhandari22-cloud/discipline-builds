@@ -1,0 +1,53 @@
+{
+ "title": "The Long Game | A Discipline Short Film",
+ "end_title": "DAY FIFTY-THREE.",
+ "stand_line": 2,
+ "gold": [
+  "long",
+  "game",
+  "compound",
+  "fifty-three."
+ ],
+ "lines": [
+  [
+   "He wasn't playing for this week.",
+   "street",
+   0.9
+  ],
+  [
+   "He was playing for the next ten years.",
+   "street",
+   0.9
+  ],
+  [
+   "Compound interest works on skills too.",
+   "desk",
+   0.9
+  ],
+  [
+   "One percent a day becomes thirty-seven times in a year.",
+   "desk",
+   0.9
+  ],
+  [
+   "The short game is quick and forgettable.",
+   "rain",
+   0.9
+  ],
+  [
+   "The long game is slow, and unstoppable.",
+   "rain",
+   0.9
+  ],
+  [
+   "Play it.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day fifty-three. Play the long game.",
+   "summit",
+   0.5
+  ]
+ ]
+}
