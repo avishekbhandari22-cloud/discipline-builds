@@ -1,0 +1,54 @@
+{
+ "title": "Earn The Right To Rest | A Discipline Short Film",
+ "end_title": "DAY THIRTY-NINE.",
+ "clock": "6:00",
+ "stand_line": 0,
+ "gold": [
+  "earn",
+  "rest",
+  "deserve",
+  "thirty-nine."
+ ],
+ "lines": [
+  [
+   "He sat down tired, and it felt good.",
+   "room",
+   0.9
+  ],
+  [
+   "Not the tired of doing nothing.",
+   "desk",
+   0.9
+  ],
+  [
+   "The tired of having given everything.",
+   "desk",
+   0.9
+  ],
+  [
+   "Rest feels different when you've earned it.",
+   "street",
+   0.9
+  ],
+  [
+   "It's quiet, deep, and honest.",
+   "rain",
+   0.9
+  ],
+  [
+   "Work first. Then rest without guilt.",
+   "rain",
+   0.9
+  ],
+  [
+   "That's the order that builds a life.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day thirty-nine. Earn your rest.",
+   "summit",
+   0.5
+  ]
+ ]
+}

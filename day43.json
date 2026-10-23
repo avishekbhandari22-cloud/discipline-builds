@@ -1,0 +1,53 @@
+{
+ "title": "Hunger Beats Comfort | A Discipline Short Film",
+ "end_title": "DAY FORTY-THREE.",
+ "stand_line": 1,
+ "gold": [
+  "hunger",
+  "comfort",
+  "stay",
+  "forty-three."
+ ],
+ "lines": [
+  [
+   "He grew up with very little.",
+   "room",
+   0.9
+  ],
+  [
+   "It gave him something comfort never could.",
+   "desk",
+   0.9
+  ],
+  [
+   "Hunger. The kind that gets you out of bed.",
+   "desk",
+   0.9
+  ],
+  [
+   "Comfort whispers, stay a little longer.",
+   "street",
+   0.9
+  ],
+  [
+   "Hunger answers, not yet. Not today.",
+   "rain",
+   0.9
+  ],
+  [
+   "Keep a little of that hunger alive.",
+   "rain",
+   0.9
+  ],
+  [
+   "Never get too comfortable with where you are.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day forty-three. Stay hungry.",
+   "summit",
+   0.5
+  ]
+ ]
+}

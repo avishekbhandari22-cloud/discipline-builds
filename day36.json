@@ -1,0 +1,54 @@
+{
+ "title": "Start Where You Are | A Discipline Short Film",
+ "end_title": "DAY THIRTY-SIX.",
+ "clock": "5:00",
+ "stand_line": 0,
+ "gold": [
+  "start",
+  "where",
+  "begin",
+  "thirty-six."
+ ],
+ "lines": [
+  [
+   "He didn't have the perfect plan.",
+   "room",
+   0.9
+  ],
+  [
+   "He didn't have the right tools.",
+   "room",
+   0.9
+  ],
+  [
+   "He had a morning, and a choice.",
+   "desk",
+   0.9
+  ],
+  [
+   "So he started where he was, with what he had.",
+   "desk",
+   0.9
+  ],
+  [
+   "Greatness rarely begins with a grand entrance.",
+   "street",
+   0.9
+  ],
+  [
+   "It begins with someone who simply starts.",
+   "rain",
+   0.9
+  ],
+  [
+   "Use what you have. Do what you can. Begin.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day thirty-six. Begin again.",
+   "summit",
+   0.5
+  ]
+ ]
+}

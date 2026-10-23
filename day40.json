@@ -1,0 +1,53 @@
+{
+ "title": "Don't Break The Chain | A Discipline Short Film",
+ "end_title": "DAY FORTY.",
+ "stand_line": 1,
+ "gold": [
+  "chain",
+  "link",
+  "streak",
+  "forty."
+ ],
+ "lines": [
+  [
+   "One day is a link. Two days is a chain.",
+   "room",
+   0.9
+  ],
+  [
+   "He didn't plan to build a streak.",
+   "room",
+   0.9
+  ],
+  [
+   "He just refused to be the one to break it.",
+   "desk",
+   0.9
+  ],
+  [
+   "On the hard days, the chain held him up.",
+   "desk",
+   0.9
+  ],
+  [
+   "It's not about perfection. It's about not stopping twice.",
+   "street",
+   0.9
+  ],
+  [
+   "If you miss a day, never miss two.",
+   "rain",
+   0.9
+  ],
+  [
+   "Add one more link today.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day forty. Keep the chain.",
+   "summit",
+   0.5
+  ]
+ ]
+}

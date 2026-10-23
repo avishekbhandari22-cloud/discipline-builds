@@ -1,0 +1,53 @@
+{
+ "title": "Say No To Say Yes | A Discipline Short Film",
+ "end_title": "DAY FORTY-SIX.",
+ "stand_line": 1,
+ "gold": [
+  "no",
+  "yes",
+  "focus",
+  "forty-six."
+ ],
+ "lines": [
+  [
+   "He said yes to everything and finished nothing.",
+   "desk",
+   0.9
+  ],
+  [
+   "Every yes was a quiet no to his own goals.",
+   "desk",
+   0.9
+  ],
+  [
+   "So he learned the power of one small word.",
+   "street",
+   0.9
+  ],
+  [
+   "No to the noise. No to the drift.",
+   "street",
+   0.9
+  ],
+  [
+   "No to the people who dilute his time.",
+   "rain",
+   0.9
+  ],
+  [
+   "Focus isn't about what you add.",
+   "hill",
+   0.9
+  ],
+  [
+   "It's about what you have the courage to cut.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day forty-six. Say the word.",
+   "summit",
+   0.5
+  ]
+ ]
+}

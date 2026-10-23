@@ -1,0 +1,53 @@
+{
+ "title": "The Mirror Doesn't Lie | A Discipline Short Film",
+ "end_title": "DAY FORTY-ONE.",
+ "stand_line": 2,
+ "gold": [
+  "mirror",
+  "honest",
+  "truth",
+  "forty-one."
+ ],
+ "lines": [
+  [
+   "Every morning, the mirror asks one question.",
+   "street",
+   0.9
+  ],
+  [
+   "Did you do what you said you would?",
+   "street",
+   0.9
+  ],
+  [
+   "You can lie to everyone else. Not to the mirror.",
+   "desk",
+   0.9
+  ],
+  [
+   "He stopped avoiding that look.",
+   "desk",
+   0.9
+  ],
+  [
+   "He started earning it.",
+   "rain",
+   0.9
+  ],
+  [
+   "Self-respect is a daily payment.",
+   "rain",
+   0.9
+  ],
+  [
+   "Look yourself in the eye, and mean it.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day forty-one. Face the mirror.",
+   "summit",
+   0.5
+  ]
+ ]
+}

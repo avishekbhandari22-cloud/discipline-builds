@@ -1,0 +1,53 @@
+{
+ "title": "The Time You Waste | A Discipline Short Film",
+ "end_title": "DAY FORTY-FOUR.",
+ "stand_line": 2,
+ "gold": [
+  "time",
+  "waste",
+  "hours",
+  "forty-four."
+ ],
+ "lines": [
+  [
+   "There are twenty-four hours in every day.",
+   "room",
+   0.9
+  ],
+  [
+   "He used to lose five of them to the phone.",
+   "room",
+   0.9
+  ],
+  [
+   "Five hours a day is a skill in a year.",
+   "desk",
+   0.9
+  ],
+  [
+   "It's a language. A business. A body.",
+   "desk",
+   0.9
+  ],
+  [
+   "Time isn't lost in big chunks. It leaks.",
+   "street",
+   0.9
+  ],
+  [
+   "Guard your hours like they're money.",
+   "rain",
+   0.9
+  ],
+  [
+   "Because they're worth far more.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day forty-four. Own your hours.",
+   "summit",
+   0.5
+  ]
+ ]
+}

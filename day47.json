@@ -1,0 +1,53 @@
+{
+ "title": "Be Patient And Relentless | A Discipline Short Film",
+ "end_title": "DAY FORTY-SEVEN.",
+ "stand_line": 2,
+ "gold": [
+  "patient",
+  "relentless",
+  "slow",
+  "forty-seven."
+ ],
+ "lines": [
+  [
+   "Nothing grows overnight. Not trees. Not people.",
+   "room",
+   0.9
+  ],
+  [
+   "He planted the seeds and kept watering.",
+   "desk",
+   0.9
+  ],
+  [
+   "For months, the ground showed nothing.",
+   "desk",
+   0.9
+  ],
+  [
+   "Patience is not waiting. It's working without proof.",
+   "street",
+   0.9
+  ],
+  [
+   "Be relentless in the work, and patient with the result.",
+   "rain",
+   0.9
+  ],
+  [
+   "The harvest always comes to those who stay.",
+   "rain",
+   0.9
+  ],
+  [
+   "Keep watering.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day forty-seven. Keep watering.",
+   "summit",
+   0.5
+  ]
+ ]
+}

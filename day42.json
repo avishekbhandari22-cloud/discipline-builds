@@ -1,0 +1,54 @@
+{
+ "title": "Build Before You're Ready | A Discipline Short Film",
+ "end_title": "DAY FORTY-TWO.",
+ "clock": "4:45",
+ "stand_line": 0,
+ "gold": [
+  "build",
+  "ready",
+  "before",
+  "forty-two."
+ ],
+ "lines": [
+  [
+   "Ready is a feeling. It never arrives on time.",
+   "desk",
+   0.9
+  ],
+  [
+   "He built the first version badly.",
+   "desk",
+   0.9
+  ],
+  [
+   "Then the second, a little better.",
+   "street",
+   0.9
+  ],
+  [
+   "Then the third, and people began to notice.",
+   "street",
+   0.9
+  ],
+  [
+   "The ones who wait to feel ready never begin.",
+   "rain",
+   0.9
+  ],
+  [
+   "Ship it. Fix it. Improve it.",
+   "hill",
+   0.9
+  ],
+  [
+   "Progress beats perfection every time.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day forty-two. Build it now.",
+   "summit",
+   0.5
+  ]
+ ]
+}

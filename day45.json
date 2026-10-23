@@ -1,0 +1,54 @@
+{
+ "title": "Pressure Makes Diamonds | A Discipline Short Film",
+ "end_title": "DAY FORTY-FIVE.",
+ "clock": "5:30",
+ "stand_line": 0,
+ "gold": [
+  "pressure",
+  "diamonds",
+  "heat",
+  "forty-five."
+ ],
+ "lines": [
+  [
+   "Under enough pressure, coal becomes a diamond.",
+   "street",
+   0.9
+  ],
+  [
+   "It doesn't happen in comfort.",
+   "street",
+   0.9
+  ],
+  [
+   "It happens in the dark, under weight, over time.",
+   "desk",
+   0.9
+  ],
+  [
+   "He felt crushed by his own deadlines.",
+   "desk",
+   0.9
+  ],
+  [
+   "That wasn't the end. That was the forging.",
+   "rain",
+   0.9
+  ],
+  [
+   "Don't run from the pressure.",
+   "rain",
+   0.9
+  ],
+  [
+   "Let it shape you into something rare.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day forty-five. Hold the pressure.",
+   "summit",
+   0.5
+  ]
+ ]
+}

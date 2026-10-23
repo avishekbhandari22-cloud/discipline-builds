@@ -1,0 +1,53 @@
+{
+ "title": "Run Your Own Race | A Discipline Short Film",
+ "end_title": "DAY THIRTY-EIGHT.",
+ "stand_line": 2,
+ "gold": [
+  "race",
+  "compare",
+  "lane",
+  "thirty-eight."
+ ],
+ "lines": [
+  [
+   "He kept looking at everyone else's lane.",
+   "desk",
+   0.9
+  ],
+  [
+   "Their pace. Their wins. Their timelines.",
+   "desk",
+   0.9
+  ],
+  [
+   "Comparison steals the energy you need to move.",
+   "street",
+   0.9
+  ],
+  [
+   "Your race has a different start and a different finish.",
+   "street",
+   0.9
+  ],
+  [
+   "The only person you need to beat is yesterday's you.",
+   "rain",
+   0.9
+  ],
+  [
+   "So eyes forward. Breath steady. Lane yours.",
+   "hill",
+   0.9
+  ],
+  [
+   "Pace yourself, and keep moving.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day thirty-eight. Run your race.",
+   "summit",
+   0.5
+  ]
+ ]
+}
