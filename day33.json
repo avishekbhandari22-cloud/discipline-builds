@@ -1,0 +1,53 @@
+{
+ "title": "Become Dangerous To Your Old Self | A Discipline Short Film",
+ "end_title": "DAY THIRTY-THREE.",
+ "stand_line": 0,
+ "gold": [
+  "dangerous",
+  "old",
+  "self",
+  "thirty-three."
+ ],
+ "lines": [
+  [
+   "Your old self had excuses. Your new self has a schedule.",
+   "room",
+   0.9
+  ],
+  [
+   "Your old self quit at the first obstacle.",
+   "room",
+   0.9
+  ],
+  [
+   "Your new self treats obstacles like training.",
+   "desk",
+   0.9
+  ],
+  [
+   "Become so disciplined that your old self wouldn't recognize you.",
+   "desk",
+   1.0
+  ],
+  [
+   "Not louder. Not flashier. Just relentless.",
+   "street",
+   0.9
+  ],
+  [
+   "Every day, he kills a little more of who he used to be.",
+   "rain",
+   0.9
+  ],
+  [
+   "That's not cruelty. That's evolution.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day thirty-three. Evolve.",
+   "summit",
+   0.5
+  ]
+ ]
+}

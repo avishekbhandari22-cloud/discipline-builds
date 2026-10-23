@@ -1,0 +1,54 @@
+{
+ "title": "Do The Hard Thing First | A Discipline Short Film",
+ "end_title": "DAY THIRTY-ONE.",
+ "clock": "6:00",
+ "stand_line": 1,
+ "gold": [
+  "hard",
+  "first",
+  "morning",
+  "thirty-one."
+ ],
+ "lines": [
+  [
+   "6:00 a.m. The hardest task is waiting for him.",
+   "room",
+   0.9
+  ],
+  [
+   "He wants to scroll. To delay. To hide.",
+   "room",
+   0.9
+  ],
+  [
+   "Instead, he does the hard thing first.",
+   "desk",
+   0.8
+  ],
+  [
+   "The rest of the day feels lighter once the heavy thing is done.",
+   "desk",
+   0.9
+  ],
+  [
+   "Win the morning, and you win the day.",
+   "street",
+   0.8
+  ],
+  [
+   "Procrastination is just fear in a disguise.",
+   "rain",
+   0.9
+  ],
+  [
+   "Face it early, while you still have the courage.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day thirty-one. Hard first.",
+   "summit",
+   0.5
+  ]
+ ]
+}

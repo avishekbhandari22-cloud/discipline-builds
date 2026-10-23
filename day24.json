@@ -1,0 +1,53 @@
+{
+ "title": "Silence Your Doubt | A Discipline Short Film",
+ "end_title": "DAY TWENTY-FOUR.",
+ "stand_line": 0,
+ "gold": [
+  "doubt",
+  "voice",
+  "head",
+  "twenty-four."
+ ],
+ "lines": [
+  [
+   "There's a voice in his head. It says, you can't.",
+   "room",
+   0.9
+  ],
+  [
+   "It's loud at 3 a.m. It's convincing.",
+   "room",
+   0.9
+  ],
+  [
+   "But he has learned something about that voice.",
+   "desk",
+   0.8
+  ],
+  [
+   "It speaks loudest right before growth.",
+   "desk",
+   0.9
+  ],
+  [
+   "Doubt isn't a stop sign. It's a signal that you're close.",
+   "street",
+   0.9
+  ],
+  [
+   "So he thanks the voice, and does the work anyway.",
+   "rain",
+   0.9
+  ],
+  [
+   "Action is the only thing that quiets doubt.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day twenty-four. Do it scared.",
+   "summit",
+   0.5
+  ]
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "title": "Your Environment Shapes You | A Discipline Short Film",
+ "end_title": "DAY TWENTY-NINE.",
+ "stand_line": 0,
+ "gold": [
+  "environment",
+  "circle",
+  "surround",
+  "twenty-nine."
+ ],
+ "lines": [
+  [
+   "He couldn't change, until he changed his surroundings.",
+   "street",
+   0.9
+  ],
+  [
+   "New circle. New routine. New standard.",
+   "street",
+   0.9
+  ],
+  [
+   "You become the average of the people and habits you surround yourself with.",
+   "desk",
+   1.0
+  ],
+  [
+   "If your circle isn't growing, you're not growing either.",
+   "desk",
+   0.9
+  ],
+  [
+   "Protect your focus like it's your most valuable asset.",
+   "rain",
+   0.9
+  ],
+  [
+   "Cut what drains you. Keep what builds you.",
+   "hill",
+   0.9
+  ],
+  [
+   "Design a life that makes discipline easy.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day twenty-nine. Change your surroundings.",
+   "summit",
+   0.5
+  ]
+ ]
+}

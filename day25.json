@@ -1,0 +1,53 @@
+{
+ "title": "Sacrifice Now, Win Later | A Discipline Short Film",
+ "end_title": "DAY TWENTY-FIVE.",
+ "stand_line": 1,
+ "gold": [
+  "sacrifice",
+  "later",
+  "choose",
+  "twenty-five."
+ ],
+ "lines": [
+  [
+   "Friday night. Everyone's going out.",
+   "street",
+   0.9
+  ],
+  [
+   "He stays in. He studies. He builds.",
+   "street",
+   0.9
+  ],
+  [
+   "Sacrifice isn't losing. It's choosing the future over the moment.",
+   "desk",
+   0.9
+  ],
+  [
+   "Every night you say no, you say yes to who you're becoming.",
+   "desk",
+   0.9
+  ],
+  [
+   "It won't always feel worth it. That's what makes it a sacrifice.",
+   "rain",
+   0.9
+  ],
+  [
+   "But the people who win later are the ones who chose differently now.",
+   "hill",
+   0.9
+  ],
+  [
+   "Pay the price in advance.",
+   "hill",
+   0.8
+  ],
+  [
+   "Day twenty-five. Choose later.",
+   "summit",
+   0.5
+  ]
+ ]
+}

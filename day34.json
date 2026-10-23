@@ -1,0 +1,53 @@
+{
+ "title": "The Last Mile Is The Loneliest | A Discipline Short Film",
+ "end_title": "DAY THIRTY-FOUR.",
+ "stand_line": 0,
+ "gold": [
+  "last",
+  "mile",
+  "lonely",
+  "thirty-four."
+ ],
+ "lines": [
+  [
+   "Everyone cheers at the start.",
+   "street",
+   0.9
+  ],
+  [
+   "Nobody cheers at the last mile.",
+   "street",
+   0.9
+  ],
+  [
+   "That's where the road gets quiet, and the doubt gets loud.",
+   "rain",
+   0.9
+  ],
+  [
+   "It's lonely, because most people left long ago.",
+   "rain",
+   0.9
+  ],
+  [
+   "But that's where winners are decided.",
+   "hill",
+   0.8
+  ],
+  [
+   "Not by talent. By who kept walking when it was dark.",
+   "hill",
+   0.9
+  ],
+  [
+   "The finish line is close. Do not stop now.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day thirty-four. Finish strong.",
+   "summit",
+   0.5
+  ]
+ ]
+}

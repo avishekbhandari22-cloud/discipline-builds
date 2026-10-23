@@ -1,0 +1,54 @@
+{
+ "title": "Be Obsessed Or Be Average | A Discipline Short Film",
+ "end_title": "DAY TWENTY-THREE.",
+ "clock": "4:30",
+ "stand_line": 1,
+ "gold": [
+  "obsessed",
+  "average",
+  "hours",
+  "twenty-three."
+ ],
+ "lines": [
+  [
+   "4:30 a.m. While they sleep, he studies.",
+   "room",
+   0.9
+  ],
+  [
+   "They call it obsession. He calls it a decision.",
+   "room",
+   0.9
+  ],
+  [
+   "Average people do what's convenient.",
+   "desk",
+   0.8
+  ],
+  [
+   "Extraordinary people do what's required.",
+   "desk",
+   0.9
+  ],
+  [
+   "There's no secret. Just more hours, spent with more focus.",
+   "street",
+   0.9
+  ],
+  [
+   "Give it everything, and let them wonder how you did it.",
+   "rain",
+   0.9
+  ],
+  [
+   "Be obsessed with the work, not the applause.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day twenty-three. Be relentless.",
+   "summit",
+   0.5
+  ]
+ ]
+}

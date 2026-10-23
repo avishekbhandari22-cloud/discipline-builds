@@ -1,0 +1,53 @@
+{
+ "title": "Consistency Beats Intensity | A Discipline Short Film",
+ "end_title": "DAY TWENTY-SIX.",
+ "stand_line": 0,
+ "gold": [
+  "consistency",
+  "intensity",
+  "daily",
+  "twenty-six."
+ ],
+ "lines": [
+  [
+   "He used to go all in for three days, then disappear.",
+   "room",
+   0.9
+  ],
+  [
+   "Intensity burns bright, and burns out.",
+   "room",
+   0.9
+  ],
+  [
+   "Consistency is quieter. It just shows up.",
+   "desk",
+   0.9
+  ],
+  [
+   "Thirty minutes a day beats a ten-hour sprint once a month.",
+   "desk",
+   0.9
+  ],
+  [
+   "Not heroic. Not exciting. Just daily.",
+   "street",
+   0.8
+  ],
+  [
+   "And that is exactly why it works.",
+   "rain",
+   0.9
+  ],
+  [
+   "Small, repeated actions build an unstoppable life.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day twenty-six. Show up again.",
+   "summit",
+   0.5
+  ]
+ ]
+}

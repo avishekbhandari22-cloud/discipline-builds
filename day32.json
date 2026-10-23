@@ -1,0 +1,53 @@
+{
+ "title": "No One Owes You Anything | A Discipline Short Film",
+ "end_title": "DAY THIRTY-TWO.",
+ "stand_line": 1,
+ "gold": [
+  "owes",
+  "anything",
+  "responsibility",
+  "thirty-two."
+ ],
+ "lines": [
+  [
+   "The world doesn't owe him a break.",
+   "street",
+   0.9
+  ],
+  [
+   "It doesn't owe him a chance, or an apology.",
+   "street",
+   0.9
+  ],
+  [
+   "That sounds harsh, until you realize what it gives you.",
+   "desk",
+   0.9
+  ],
+  [
+   "Total responsibility. Total control.",
+   "desk",
+   0.9
+  ],
+  [
+   "When you stop waiting for fairness, you start building leverage.",
+   "rain",
+   0.9
+  ],
+  [
+   "Take ownership of your life, the good and the bad.",
+   "hill",
+   0.9
+  ],
+  [
+   "Nobody is coming. So become the one.",
+   "hill",
+   0.8
+  ],
+  [
+   "Day thirty-two. Own it.",
+   "summit",
+   0.5
+  ]
+ ]
+}

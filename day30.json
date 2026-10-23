@@ -1,0 +1,53 @@
+{
+ "title": "Fall Seven Times, Rise Eight | A Discipline Short Film",
+ "end_title": "DAY THIRTY.",
+ "stand_line": 0,
+ "gold": [
+  "fall",
+  "rise",
+  "eight",
+  "thirty."
+ ],
+ "lines": [
+  [
+   "He fell. Again. Seven times this year.",
+   "rain",
+   0.9
+  ],
+  [
+   "Each fall felt like the end.",
+   "rain",
+   0.9
+  ],
+  [
+   "But he got up. Slower, maybe. Bruised, definitely.",
+   "street",
+   0.9
+  ],
+  [
+   "Falling is not failing. Staying down is.",
+   "street",
+   0.9
+  ],
+  [
+   "Every great story has a chapter where it almost ends.",
+   "street",
+   0.9
+  ],
+  [
+   "Rise eight. Always one more than you fall.",
+   "hill",
+   0.9
+  ],
+  [
+   "They don't remember how many times you fell. Only that you got up.",
+   "hill",
+   1.0
+  ],
+  [
+   "Day thirty. Rise again.",
+   "summit",
+   0.5
+  ]
+ ]
+}

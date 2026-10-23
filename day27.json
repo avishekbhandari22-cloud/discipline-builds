@@ -1,0 +1,54 @@
+{
+ "title": "Rest Is Not Quitting | A Discipline Short Film",
+ "end_title": "DAY TWENTY-SEVEN.",
+ "clock": "9:00",
+ "stand_line": 1,
+ "gold": [
+  "rest",
+  "quitting",
+  "recover",
+  "twenty-seven."
+ ],
+ "lines": [
+  [
+   "9:00 p.m. He closes the laptop. On purpose.",
+   "room",
+   0.9
+  ],
+  [
+   "Rest isn't weakness. It's part of the plan.",
+   "room",
+   0.9
+  ],
+  [
+   "A blade that's never sharpened eventually fails.",
+   "desk",
+   0.9
+  ],
+  [
+   "The strongest athletes train hard, and recover harder.",
+   "desk",
+   0.9
+  ],
+  [
+   "There's a difference between resting and quitting.",
+   "street",
+   0.8
+  ],
+  [
+   "Resting means you plan to come back.",
+   "rain",
+   0.9
+  ],
+  [
+   "Sleep. Breathe. Reset. Then return stronger.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day twenty-seven. Recover, then rise.",
+   "summit",
+   0.5
+  ]
+ ]
+}

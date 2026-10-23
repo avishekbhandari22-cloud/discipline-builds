@@ -1,0 +1,53 @@
+{
+ "title": "Stop Waiting For The Perfect Time | A Discipline Short Film",
+ "end_title": "DAY TWENTY-TWO.",
+ "stand_line": 0,
+ "gold": [
+  "perfect",
+  "time",
+  "now.",
+  "twenty-two."
+ ],
+ "lines": [
+  [
+   "He kept waiting for the perfect time.",
+   "room",
+   0.9
+  ],
+  [
+   "Better weather. More money. Less fear.",
+   "room",
+   0.9
+  ],
+  [
+   "But the perfect time never knocks.",
+   "desk",
+   0.8
+  ],
+  [
+   "It's a story we tell ourselves to stay safe.",
+   "desk",
+   0.9
+  ],
+  [
+   "The best time to start was a year ago. The second best is now.",
+   "street",
+   0.9
+  ],
+  [
+   "Start messy. Start scared. Start anyway.",
+   "rain",
+   0.9
+  ],
+  [
+   "Momentum doesn't care how perfect the first step was.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day twenty-two. Begin now.",
+   "summit",
+   0.5
+  ]
+ ]
+}
