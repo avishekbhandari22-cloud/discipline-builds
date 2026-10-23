@@ -1,0 +1,53 @@
+{
+ "title": "Look How Far You've Come | A Discipline Short Film",
+ "end_title": "DAY SIXTY-FIVE.",
+ "stand_line": 2,
+ "gold": [
+  "far",
+  "come",
+  "progress",
+  "sixty-five."
+ ],
+ "lines": [
+  [
+   "He looked back, and couldn't believe it.",
+   "street",
+   0.9
+  ],
+  [
+   "Two months of mornings. Two months of work.",
+   "street",
+   0.9
+  ],
+  [
+   "He had forgotten how small he used to be.",
+   "desk",
+   0.9
+  ],
+  [
+   "Progress is invisible until you turn around.",
+   "desk",
+   0.9
+  ],
+  [
+   "Don't only look at how far there is to go.",
+   "rain",
+   0.9
+  ],
+  [
+   "Look at how far you've already walked.",
+   "rain",
+   0.9
+  ],
+  [
+   "Then take the next step.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day sixty-five. Keep walking.",
+   "summit",
+   0.5
+  ]
+ ]
+}

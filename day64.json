@@ -1,0 +1,53 @@
+{
+ "title": "The Final Push | A Discipline Short Film",
+ "end_title": "DAY SIXTY-FOUR.",
+ "stand_line": 1,
+ "gold": [
+  "final",
+  "push",
+  "finish",
+  "sixty-four."
+ ],
+ "lines": [
+  [
+   "The last ten percent is the hardest.",
+   "room",
+   0.9
+  ],
+  [
+   "His legs are tired. His mind wants out.",
+   "room",
+   0.9
+  ],
+  [
+   "This is where most people quietly stop.",
+   "desk",
+   0.9
+  ],
+  [
+   "Not because they can't. Because it hurts.",
+   "desk",
+   0.9
+  ],
+  [
+   "He leans in. One more rep. One more page.",
+   "street",
+   0.9
+  ],
+  [
+   "The finish line rewards the ones who stay.",
+   "rain",
+   0.9
+  ],
+  [
+   "Dig deep. You're closer than you think.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day sixty-four. Push through.",
+   "summit",
+   0.5
+  ]
+ ]
+}

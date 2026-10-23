@@ -1,0 +1,53 @@
+{
+ "title": "One More Year | A Discipline Short Film",
+ "end_title": "DAY SIXTY-SEVEN.",
+ "stand_line": 1,
+ "gold": [
+  "year",
+  "begin",
+  "ahead",
+  "sixty-seven."
+ ],
+ "lines": [
+  [
+   "Another year is almost gone.",
+   "room",
+   0.9
+  ],
+  [
+   "He asked himself one honest question.",
+   "desk",
+   0.9
+  ],
+  [
+   "Did I become who I said I would be?",
+   "desk",
+   0.9
+  ],
+  [
+   "The answer was part yes, part not yet.",
+   "street",
+   0.9
+  ],
+  [
+   "That's okay. A new year is a new page.",
+   "rain",
+   0.9
+  ],
+  [
+   "The next twelve months are waiting.",
+   "rain",
+   0.9
+  ],
+  [
+   "Decide who you want to be, and start tonight.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day sixty-seven. Start tonight.",
+   "summit",
+   0.5
+  ]
+ ]
+}

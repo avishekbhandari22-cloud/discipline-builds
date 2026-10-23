@@ -1,0 +1,53 @@
+{
+ "title": "Be The Example | A Discipline Short Film",
+ "end_title": "DAY SIXTY-ONE.",
+ "stand_line": 1,
+ "gold": [
+  "example",
+  "lead",
+  "watch",
+  "sixty-one."
+ ],
+ "lines": [
+  [
+   "Someone is always watching.",
+   "street",
+   0.9
+  ],
+  [
+   "A little brother. A friend. A stranger.",
+   "street",
+   0.9
+  ],
+  [
+   "They don't hear your advice. They watch your actions.",
+   "desk",
+   0.9
+  ],
+  [
+   "He never gave a speech about discipline.",
+   "desk",
+   0.9
+  ],
+  [
+   "He just lived it, quietly, every day.",
+   "rain",
+   0.9
+  ],
+  [
+   "And slowly, others began to follow.",
+   "rain",
+   0.9
+  ],
+  [
+   "Lead by showing up.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day sixty-one. Be the example.",
+   "summit",
+   0.5
+  ]
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "title": "Finish The Year Strong | A Discipline Short Film",
+ "end_title": "DAY SIXTY-EIGHT.",
+ "stand_line": 2,
+ "gold": [
+  "finish",
+  "strong",
+  "year",
+  "sixty-eight."
+ ],
+ "lines": [
+  [
+   "The last weeks of the year. Everyone slows down.",
+   "room",
+   0.9
+  ],
+  [
+   "That's your advantage.",
+   "room",
+   0.9
+  ],
+  [
+   "While others coast, he accelerates.",
+   "desk",
+   0.9
+  ],
+  [
+   "The last stretch decides how the year is remembered.",
+   "desk",
+   0.9
+  ],
+  [
+   "No coasting. No excuses. No soft ending.",
+   "street",
+   0.9
+  ],
+  [
+   "End the year better than you began it.",
+   "rain",
+   0.9
+  ],
+  [
+   "Make these final days count.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day sixty-eight. Finish strong.",
+   "summit",
+   0.5
+  ]
+ ]
+}

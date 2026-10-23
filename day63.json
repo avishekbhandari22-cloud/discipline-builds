@@ -1,0 +1,54 @@
+{
+ "title": "Failure Is Data | A Discipline Short Film",
+ "end_title": "DAY SIXTY-THREE.",
+ "clock": "6:00",
+ "stand_line": 0,
+ "gold": [
+  "failure",
+  "data",
+  "learn",
+  "sixty-three."
+ ],
+ "lines": [
+  [
+   "The project failed. He didn't take it personally.",
+   "room",
+   0.9
+  ],
+  [
+   "He took it as data.",
+   "desk",
+   0.9
+  ],
+  [
+   "What worked? What didn't? What's next?",
+   "desk",
+   0.9
+  ],
+  [
+   "Scientists don't cry over a failed experiment.",
+   "street",
+   0.9
+  ],
+  [
+   "They adjust and run it again.",
+   "rain",
+   0.9
+  ],
+  [
+   "Treat your setbacks as research.",
+   "rain",
+   0.9
+  ],
+  [
+   "Each miss narrows the path to the hit.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day sixty-three. Learn and adjust.",
+   "summit",
+   0.5
+  ]
+ ]
+}

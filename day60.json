@@ -1,0 +1,54 @@
+{
+ "title": "The Power Of Early Mornings | A Discipline Short Film",
+ "end_title": "DAY SIXTY.",
+ "clock": "5:00",
+ "stand_line": 0,
+ "gold": [
+  "early",
+  "morning",
+  "win",
+  "sixty."
+ ],
+ "lines": [
+  [
+   "5:00 a.m. The world is still.",
+   "room",
+   0.9
+  ],
+  [
+   "No messages. No demands. No noise.",
+   "room",
+   0.9
+  ],
+  [
+   "Just him and the work that matters.",
+   "desk",
+   0.9
+  ],
+  [
+   "By seven, he's done what others only plan.",
+   "desk",
+   0.9
+  ],
+  [
+   "The morning belongs to those who claim it.",
+   "street",
+   0.9
+  ],
+  [
+   "It's not about waking early.",
+   "rain",
+   0.9
+  ],
+  [
+   "It's about winning before the world wakes.",
+   "hill",
+   0.9
+  ],
+  [
+   "Day sixty. Own the morning.",
+   "summit",
+   0.5
+  ]
+ ]
+}
