@@ -1,0 +1,58 @@
+name: Daily Discipline Film
+on:
+  schedule:
+    - cron: "10 11 * * *"   # ~7:10 ET (EDT); render takes a few minutes, upload lands near 8:00 ET
+    - cron: "10 12 * * *"   # same time during EST
+  workflow_dispatch:
+    inputs:
+      spec:
+        description: "Spec to render (e.g. day2.json). Empty = today's."
+        required: false
+      upload:
+        description: "Upload to YouTube?"
+        default: "false"
+jobs:
+  film:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - name: Gate (run only at the right hour for ET)
+        id: gate
+        run: |
+          off=$(TZ=America/New_York date +%z)
+          h=$(date -u +%H)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then echo "go=1" >> $GITHUB_OUTPUT
+          elif [ "$off" = "-0400" ] && [ "$h" = "11" ]; then echo "go=1" >> $GITHUB_OUTPUT
+          elif [ "$off" = "-0500" ] && [ "$h" = "12" ]; then echo "go=1" >> $GITHUB_OUTPUT
+          else echo "go=0" >> $GITHUB_OUTPUT; fi
+          if [ "$off" = "-0400" ]; then echo "EDT=1" >> $GITHUB_ENV; else echo "EDT=0" >> $GITHUB_ENV; fi
+      - name: Install
+        if: steps.gate.outputs.go == '1'
+        run: |
+          sudo apt-get update -y && sudo apt-get install -y ffmpeg fonts-dejavu-core
+          pip install -r requirements.txt
+          mkdir -p models
+          curl -sSL -o models/kokoro-v1.0.onnx https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx
+          curl -sSL -o models/voices-v1.0.bin https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin
+      - name: Pick spec
+        if: steps.gate.outputs.go == '1'
+        id: pick
+        run: |
+          if [ -n "${{ github.event.inputs.spec }}" ]; then echo "spec=${{ github.event.inputs.spec }}" >> $GITHUB_OUTPUT
+          else echo "spec=$(python pick_spec.py)" >> $GITHUB_OUTPUT; fi
+      - name: Render
+        if: steps.gate.outputs.go == '1' && steps.pick.outputs.spec != ''
+        run: python make_film.py film.mp4 ${{ steps.pick.outputs.spec }}
+      - uses: actions/upload-artifact@v4
+        if: steps.gate.outputs.go == '1' && steps.pick.outputs.spec != ''
+        with: { name: film, path: film.mp4 }
+      - name: Upload to YouTube
+        if: steps.gate.outputs.go == '1' && steps.pick.outputs.spec != '' && (github.event_name == 'schedule' || github.event.inputs.upload == 'true')
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: python upload_youtube.py film.mp4 ${{ steps.pick.outputs.spec }}

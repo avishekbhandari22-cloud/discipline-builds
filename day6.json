@@ -1,0 +1,55 @@
+{
+ "title": "Twenty Minutes A Day Changes Everything | Discipline Short Film",
+ "end_title": "DAY SIX.",
+ "clock": "11:48 PM",
+ "stand_line": 0,
+ "gold": [
+  "twenty",
+  "minutes",
+  "him.",
+  "possible.",
+  "six."
+ ],
+ "lines": [
+  [
+   "11:48 p.m. Another day nearly gone.",
+   "desk",
+   0.8
+  ],
+  [
+   "He could scroll. He could rest. He could quit.",
+   "desk",
+   0.8
+  ],
+  [
+   "Instead he opens the book. Twenty minutes. That's the deal.",
+   "desk",
+   0.9
+  ],
+  [
+   "Twenty minutes is nothing. Twenty minutes every day is everything.",
+   "street",
+   0.9
+  ],
+  [
+   "There is a version of you ten years from now, built by tonight's choice.",
+   "street",
+   0.9
+  ],
+  [
+   "Make him proud.",
+   "hill",
+   0.8
+  ],
+  [
+   "Make him possible.",
+   "hill",
+   1.0
+  ],
+  [
+   "Day six. Be him.",
+   "summit",
+   0.5
+  ]
+ ]
+}

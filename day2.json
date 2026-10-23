@@ -1,0 +1,70 @@
+{
+ "title": "Nobody Claps For The Quiet Hours | A Discipline Short Film",
+ "end_title": "DAY TWO.",
+ "clock": "2:10 AM",
+ "stand_line": 0,
+ "gold": [
+  "quiet",
+  "hours",
+  "unseen",
+  "future",
+  "two."
+ ],
+ "lines": [
+  [
+   "2:10 a.m. Everyone you know is asleep.",
+   "desk",
+   0.8
+  ],
+  [
+   "The exam is in three weeks. The doubt is in his head right now.",
+   "desk",
+   0.8
+  ],
+  [
+   "Nobody will clap for the hours he spends here.",
+   "desk",
+   0.9
+  ],
+  [
+   "That's the price. Quiet hours. Unseen work.",
+   "desk",
+   0.8
+  ],
+  [
+   "He reads one more page. Then another.",
+   "desk",
+   0.8
+  ],
+  [
+   "Morning comes. He is tired, and he does not stop.",
+   "street",
+   0.8
+  ],
+  [
+   "Talent gets you started. Hours decide where you finish.",
+   "street",
+   0.9
+  ],
+  [
+   "While others waited for the perfect moment,",
+   "hill",
+   0.5
+  ],
+  [
+   "he built it, one quiet hour at a time.",
+   "hill",
+   1.0
+  ],
+  [
+   "Your future is being written right now, in the hours nobody sees.",
+   "summit",
+   0.8
+  ],
+  [
+   "Day two. Keep going.",
+   "summit",
+   0.5
+  ]
+ ]
+}

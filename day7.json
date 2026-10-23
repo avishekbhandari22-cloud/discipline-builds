@@ -1,0 +1,55 @@
+{
+ "title": "Who Are You When No One Is Watching? | A Discipline Short Film",
+ "end_title": "DAY SEVEN.",
+ "clock": "5:00",
+ "stand_line": 1,
+ "gold": [
+  "watching?",
+  "integrity",
+  "promise",
+  "seven.",
+  "keep"
+ ],
+ "lines": [
+  [
+   "5:00 a.m. No one will check if he gets up.",
+   "room",
+   0.8
+  ],
+  [
+   "That's the test. Who are you when no one is watching?",
+   "room",
+   0.8
+  ],
+  [
+   "He stands. He laces his shoes. He steps out into the dark.",
+   "room",
+   0.9
+  ],
+  [
+   "Integrity is doing the work when no one is looking.",
+   "rain",
+   0.9
+  ],
+  [
+   "Discipline is keeping the promise when no one would know you broke it.",
+   "rain",
+   0.9
+  ],
+  [
+   "Seven days. Seven promises kept.",
+   "hill",
+   0.8
+  ],
+  [
+   "Keep going. The sun is coming for you.",
+   "hill",
+   1.0
+  ],
+  [
+   "Day seven. Don't stop.",
+   "summit",
+   0.5
+  ]
+ ]
+}

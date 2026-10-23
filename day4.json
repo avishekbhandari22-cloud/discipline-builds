@@ -1,0 +1,70 @@
+{
+ "title": "Comfort Is The Most Expensive Thing You'll Ever Buy | Discipline Film",
+ "end_title": "DAY FOUR.",
+ "clock": "6:00",
+ "stand_line": 2,
+ "gold": [
+  "comfort",
+  "expensive",
+  "discipline",
+  "vote",
+  "four."
+ ],
+ "lines": [
+  [
+   "6:00 a.m. The bed is warm. The world is cold.",
+   "room",
+   0.8
+  ],
+  [
+   "Comfort is the most expensive thing you will ever buy.",
+   "room",
+   0.8
+  ],
+  [
+   "It costs you your goals, your health, and your future.",
+   "room",
+   0.9
+  ],
+  [
+   "So he pays the small price now: the cold floor, the early start.",
+   "street",
+   0.8
+  ],
+  [
+   "Discipline is choosing the hard thing today so you can choose anything tomorrow.",
+   "street",
+   0.9
+  ],
+  [
+   "Every morning you win is a vote for the person you want to become.",
+   "rain",
+   0.8
+  ],
+  [
+   "Vote early. Vote daily.",
+   "rain",
+   0.9
+  ],
+  [
+   "The climb is steep. The view is worth it.",
+   "hill",
+   0.8
+  ],
+  [
+   "Nobody regrets the workout they finished.",
+   "hill",
+   0.8
+  ],
+  [
+   "They only regret the one they skipped.",
+   "summit",
+   0.8
+  ],
+  [
+   "Day four. Choose hard.",
+   "summit",
+   0.5
+  ]
+ ]
+}

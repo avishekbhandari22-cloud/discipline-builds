@@ -1,0 +1,64 @@
+{
+ "title": "Failure Is The Price Of Success | A Discipline Short Film",
+ "end_title": "DAY THREE.",
+ "stand_line": 0,
+ "gold": [
+  "failed.",
+  "sign.",
+  "tax",
+  "rejection",
+  "three."
+ ],
+ "lines": [
+  [
+   "He failed. Again.",
+   "rain",
+   0.9
+  ],
+  [
+   "Third rejection this month. His friends say, maybe it's a sign.",
+   "rain",
+   0.8
+  ],
+  [
+   "It is a sign. A sign that he's still trying.",
+   "rain",
+   0.9
+  ],
+  [
+   "Failure isn't the opposite of success.",
+   "street",
+   0.8
+  ],
+  [
+   "It's the tax you pay for it.",
+   "street",
+   0.9
+  ],
+  [
+   "So he wipes the rain from his face and walks back to the start.",
+   "street",
+   0.9
+  ],
+  [
+   "Because the people you admire were not born ready.",
+   "hill",
+   0.8
+  ],
+  [
+   "They were rejected, ignored, and laughed at. And they kept showing up.",
+   "hill",
+   1.0
+  ],
+  [
+   "Rejection redirects you. Quitting ends you.",
+   "summit",
+   0.8
+  ],
+  [
+   "Day three. Get back up.",
+   "summit",
+   0.5
+  ]
+ ]
+}

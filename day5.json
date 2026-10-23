@@ -1,0 +1,54 @@
+{
+ "title": "Small Steps Build A Different Life | A Discipline Short Film",
+ "end_title": "DAY FIVE.",
+ "stand_line": 0,
+ "gold": [
+  "small",
+  "never",
+  "stopped.",
+  "five.",
+  "start"
+ ],
+ "lines": [
+  [
+   "He didn't wake up strong.",
+   "street",
+   0.8
+  ],
+  [
+   "He woke up and did ten push-ups. Then ten more tomorrow.",
+   "street",
+   0.8
+  ],
+  [
+   "Nobody noticed day one. Nobody noticed day thirty.",
+   "street",
+   0.9
+  ],
+  [
+   "On day ninety, everyone asked what changed.",
+   "rain",
+   0.9
+  ],
+  [
+   "Nothing changed. He just never stopped.",
+   "rain",
+   0.9
+  ],
+  [
+   "Small steps, repeated, become a different life.",
+   "hill",
+   0.8
+  ],
+  [
+   "Don't wait to feel ready. Start small. Start ugly. Start today.",
+   "hill",
+   1.0
+  ],
+  [
+   "Day five. One more step.",
+   "summit",
+   0.5
+  ]
+ ]
+}
