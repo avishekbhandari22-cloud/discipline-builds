@@ -46,20 +46,19 @@ jobs:
       - name: Render
         if: steps.gate.outputs.go == '1' && steps.pick.outputs.spec != ''
         run: python make_film.py film.mp4 ${{ steps.pick.outputs.spec }}
+      - name: Make thumbnail
+        if: steps.gate.outputs.go == '1' && steps.pick.outputs.spec != ''
+        continue-on-error: true
+        run: |
+          N=$(echo "${{ steps.pick.outputs.spec }}" | sed 's/[^0-9]//g')
+          PYTHONPATH=. python thumbs.py thumb.png ${{ steps.pick.outputs.spec }} "$N"
       - uses: actions/upload-artifact@v4
         if: steps.gate.outputs.go == '1' && steps.pick.outputs.spec != ''
-        with: { name: film, path: film.mp4 }
+        with: { name: film, path: "film.mp4\nthumb.png" }
       - name: Upload to YouTube
         if: steps.gate.outputs.go == '1' && steps.pick.outputs.spec != '' && (github.event_name == 'schedule' || github.event.inputs.upload == 'true')
         env:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
-        run: python upload_youtube.py film.mp4 ${{ steps.pick.outputs.spec }}
-      - name: Post to Facebook Page
-        if: steps.gate.outputs.go == '1' && steps.pick.outputs.spec != '' && (github.event_name == 'schedule' || github.event.inputs.upload == 'true')
-        continue-on-error: true
-        env:
-          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
-          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
-        run: python post_facebook.py film.mp4 ${{ steps.pick.outputs.spec }}
+        run: python upload_youtube.py film.mp4 ${{ steps.pick.outputs.spec }} thumb.png
