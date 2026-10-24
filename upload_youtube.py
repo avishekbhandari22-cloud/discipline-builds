@@ -5,7 +5,7 @@ from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 
-def main(video, spec_path):
+def main(video, spec_path, thumb=None):
     spec = json.load(open(spec_path))
     creds = Credentials(None, refresh_token=os.environ["YT_REFRESH_TOKEN"],
         token_uri="https://oauth2.googleapis.com/token",
@@ -25,6 +25,12 @@ def main(video, spec_path):
     while resp is None:
         _, resp = req.next_chunk()
     print("uploaded", resp["id"])
+    if thumb and os.path.exists(thumb):
+        try:
+            yt.thumbnails().set(videoId=resp["id"], media_body=MediaFileUpload(thumb, mimetype="image/png")).execute()
+            print("thumbnail set")
+        except Exception as e:  # never fail the upload because of the thumbnail
+            print("thumbnail not set:", e)
 
 if __name__ == "__main__":
-    main(sys.argv[1], sys.argv[2])
+    main(sys.argv[1], sys.argv[2], sys.argv[3] if len(sys.argv) > 3 else None)
